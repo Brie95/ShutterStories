@@ -1,20 +1,8 @@
----
-title: ShutterStories
----
+## Main Categories
+- [[camera-equipment/index|Camera Equipment]]
+- [[photo-editing/index|Photo Editing]]
+- [[photography-techniques/index|Photography Techniques]]
+- [[photography-tips/index|Photography Tips]]
+- [[portrait-photography/index|Portrait Photography]]
+- [[travel-photography/index|Travel Photography]]
 
-# ShutterStories
-
-Welcome to ShutterStories.
-
-A collection of photography, travel adventures, and visual storytelling.
-
-## Featured Galleries
-
-- Landscapes
-- Nature
-- Travel
-- Portraits
-
-## About
-
-Photography allows me to capture moments, places, and stories worth remembering.
