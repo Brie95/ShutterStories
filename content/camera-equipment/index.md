@@ -1,5 +1,0 @@
----  
-
-title: Camera Equipment  
-
----
