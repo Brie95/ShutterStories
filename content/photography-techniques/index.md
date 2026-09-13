@@ -4,6 +4,7 @@ title: Photography Techniques
 
 ---
 
+---
 title: Photography Techniques
 ---
 
@@ -14,3 +15,7 @@ title: Photography Techniques
 - [[portrait-techniques|Portrait Techniques]]
 - [[action-photography|Action Photography]]
 - [[creative-perspectives|Creative Perspectives]]
+
+
+
+
