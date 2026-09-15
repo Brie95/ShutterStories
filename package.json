@@ -1,9 +1,9 @@
 { 
   "name": "quartz", 
-  "version": "5.0.0", 
+  "version": "1.0.0", 
   "private": true, 
   "type": "module", 
   "scripts": { 
-    "quartz": "node ./quartz/bootstrap-cli.mjs" 
+    "build": "npx quartz build" 
   } 
 } 
