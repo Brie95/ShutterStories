@@ -5,5 +5,8 @@
   "type": "module", 
   "scripts": { 
     "build": "npx quartz build" 
-  } 
-} 
+  },
+  "devDependencies": {
+    "quartz": "^4.3.1"
+  }
+}
