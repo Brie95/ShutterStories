@@ -4,6 +4,6 @@
   "private": true, 
   "type": "module", 
   "scripts": { 
-    "quartz": "./quartz/bootstrap-cli.mjs" 
+    "quartz": "node ./quartz/bootstrap-cli.mjs" 
   } 
 } 
