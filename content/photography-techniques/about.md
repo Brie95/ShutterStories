@@ -4,6 +4,6 @@ title: About
 
 # About Me
 
-Welcome to ShutterStories.
+Welcome to my ShutterStories.
 
 This website showcases my photography, adventures, and favorite moments.
