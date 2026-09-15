@@ -46,6 +46,7 @@ jobs:
           # Save it to the environment output
           echo "stripped_url=$CLEANED_URL" >> $GITHUB_OUTPUT
       - name: Copy documents and settings to runtime
+      mkdir -p runtime
         run: |
           yq -i '.configuration.baseUrl = "${{ steps.clean_url.outputs.stripped_url }}"' quartz.config.yaml
           cp -vr quartz.config.yaml content/ runtime/
